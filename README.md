@@ -1,6 +1,6 @@
-# React + React Hook Form + Zod + TypeScript
+# React + React Hook Form + Zod + TypeScript + Tailwind CSS
 
-React + React Hook Form + Zod + TypeScript
+React Hook Form with ZOD and TypeScript and styled with Tailwind CSS.
 
 ## Getting Started
 
